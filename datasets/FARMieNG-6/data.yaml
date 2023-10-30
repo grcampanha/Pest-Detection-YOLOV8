@@ -1,0 +1,15 @@
+names:
+- BACTERIAL DISEASE
+- GERMINATED
+- HEALTHY
+- VIRAL DISEASE
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: farmieng
+  url: https://universe.roboflow.com/alienor-duron/farmieng/dataset/6
+  version: 6
+  workspace: alienor-duron
+test: ../test/images
+train: FARMieNG-6/train/images
+val: FARMieNG-6/valid/images
